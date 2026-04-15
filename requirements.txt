@@ -2,6 +2,6 @@ streamlit
 pandas
 numpy
 matplotlib
-tensorflow
-joblib
+tensorflow-cpu
 scikit-learn
+joblib
